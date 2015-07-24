@@ -132,8 +132,8 @@
   position: absolute;
   z-index: 2;
   height: 100%;
-  width: 18px;
-  margin: 0 0 0 -9px;
+  width: 8px;
+  margin: 0 0 0 -4px;
   background: #efefef;
   border: 1px solid #ccc;
   -moz-border-radius: 3px;
